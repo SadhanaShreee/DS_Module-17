@@ -35,6 +35,7 @@ int main(void)
 
 ## Output:
 
+![Screenshot 2025-05-18 134638](https://github.com/user-attachments/assets/e802bb6c-2338-4ce9-aa9a-140a97b5317d)
 
 
 ## Result:
