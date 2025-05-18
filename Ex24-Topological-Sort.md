@@ -1,5 +1,5 @@
 # Ex24 Topological Sort
-## DATE: 25.04-2025
+## DATE: 25-04-2025
 ## AIM:
 To compose the code to determine whether the topological ordering for the following graph is possible or not.
 
@@ -89,6 +89,7 @@ int main()
 
 ## Output:
 
+![Screenshot 2025-05-18 133857](https://github.com/user-attachments/assets/63095a4a-00a9-44d2-bc8a-c725880ea395)
 
 
 ## Result:
