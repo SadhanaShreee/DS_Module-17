@@ -62,6 +62,7 @@ void printQueue(struct queue* q) {
 
 ## Output:
 
+![Screenshot 2025-05-18 133152](https://github.com/user-attachments/assets/b5015da0-121c-4343-afef-b88b1b455d45)
 
 
 ## Result:
