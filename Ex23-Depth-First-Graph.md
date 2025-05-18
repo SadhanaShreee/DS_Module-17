@@ -46,6 +46,7 @@ struct node* createNode(int v) {
 
 ## Output:
 
+![Screenshot 2025-05-18 133456](https://github.com/user-attachments/assets/aed35dd0-0e2f-469a-8069-76f048e904ff)
 
 
 ## Result:
