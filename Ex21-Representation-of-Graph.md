@@ -53,6 +53,7 @@ int main()
 
 ## Output:
 
+![Screenshot 2025-05-18 132541](https://github.com/user-attachments/assets/84ed79bb-ade6-485e-86f9-fd7a9e5b630d)
 
 
 ## Result:
